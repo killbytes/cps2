@@ -1,3 +1,3 @@
 # cps2
 
-## [Link page](https://example.com/)
+## [Link page](https://cps2.vercel.app)
