@@ -1,3 +1,3 @@
 # cps2
 
-## [Link page](https://cps2.vercel.app)
+## [Link page mobile](https://cps2-git-mobile-iintoos-projects.vercel.app/)
